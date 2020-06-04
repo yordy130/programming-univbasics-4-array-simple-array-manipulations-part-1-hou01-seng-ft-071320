@@ -1,4 +1,4 @@
 
 def using_push(array, string)
-  array.push('last')
+  array.push("violet")
 end
